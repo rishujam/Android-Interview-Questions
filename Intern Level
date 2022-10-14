@@ -1,0 +1,18 @@
+Kotlin all operators like lazy, lateinit, is, etc.
+Lamda function uses
+Lifecycle in different situation
+High order functions
+How room works
+How retrofit works
+Diff between MVVM and MVVM Clean
+Why MVVM
+Services
+Broadcast receiver
+Single activity app vs other
+Flows vs live data, uses of flow when and when live data
+RxKotlin
+Const vs val vs companion object vs object
+Sealed class
+Interface vs abstract 
+Extention functions
+Things you thinks recyclerview can improve on
