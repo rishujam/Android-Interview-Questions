@@ -1,3 +1,4 @@
+Things you thinks recyclerview can improve on
 Kotlin all operators like lazy, lateinit, is, etc.
 Lamda function uses
 Lifecycle in different situation
@@ -15,4 +16,7 @@ Const vs val vs companion object vs object
 Sealed class
 Interface vs abstract 
 Extention functions
-Things you thinks recyclerview can improve on
+Coroutines uses in different situation like using coroutine scope block, async block, await, await all, etc.
+Work of ViewModel
+Activities back stack
+passing data between activities present in backstack
