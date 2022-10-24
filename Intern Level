@@ -13,7 +13,7 @@ Single activity app vs other
 Flows vs live data, uses of flow when and when live data
 RxKotlin
 Const vs val vs companion object vs object
-Sealed class
+Different classes in kotlin (sealed, object, data, etc.)
 Interface vs abstract 
 Extention functions
 Coroutines uses in different situation like using coroutine scope block, async block, await, await all, etc.
