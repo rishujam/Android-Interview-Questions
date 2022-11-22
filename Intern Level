@@ -1,7 +1,10 @@
 Things you thinks recyclerview can improve on
 Kotlin all operators like lazy, lateinit, is, etc.
 Lamda function uses
-Lifecycle in different situation
+
+Q. Activity lifecycle when call comes? 
+Ans -> onPause and onStop. After call cut onRestart onStart onResume
+
 High order functions
 How room works
 How retrofit works 
