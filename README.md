@@ -1,6 +1,6 @@
-This repository is for intern level interview questions for android role.
+__This repository is for intern level interview questions for android role.__
 
-Kotlin Questions:
+__Kotlin Questions:__
 
 Q. Explain all scope function and its usecase ?
 Ans -> https://www.youtube.com/watch?v=Vy-dS2SVoHk&ab_channel=PhilippLackner
@@ -29,13 +29,11 @@ Q. Extention functions
 
 Q. Coroutines uses in different situation like using coroutine scope block, async block, await, await all, etc.
 
-
-General Questions:
+__General Questions:__
 
 Q. SOLID Principles
 
-
-Android Questions:
+__Android Questions:__
 
 Q. Activity lifecycle when call comes? 
 Ans -> onPause and onStop. After call cut onRestart onStart onResume
