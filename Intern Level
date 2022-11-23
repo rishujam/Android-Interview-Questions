@@ -13,7 +13,10 @@ Diff between MVVM and MVVM Clean
 Why MVVM
 Services
 Broadcast receiver
-Single activity app vs other
+
+Q. Why Single activity app?
+Ans -> https://oozou.com/blog/reasons-to-use-android-single-activity-architecture-with-navigation-component-36
+
 Flows vs live data, uses of flow when and when live data
 Const vs val vs companion object vs object
 Different classes in kotlin (sealed, object, data, etc.)
