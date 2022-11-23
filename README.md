@@ -6,9 +6,6 @@ __Kotlin Questions:__
 Q. Explain all scope function and its usecase ?</br>
 Ans -> https://www.youtube.com/watch?v=Vy-dS2SVoHk&ab_channel=PhilippLackner
 
-Q. How to make singleton class in java?</br>
-Ans -> Ans in SingletonClassInJavaAnswer file.
-
 Q. lazy vs lateinit
 
 Q. High order functions</br>
@@ -23,8 +20,6 @@ Ans -> https://medium.com/proandroiddev/kotlin-pearls-7-unit-nothing-any-and-nul
 
 Q. What is internal keyword use?</br>
 Ans -> Setting a declaration as internal means that it'll be available in the same module only.
-
-Q. Flows vs live data, uses of flow when and when live data
 
 Q. const, val, var, companion object and object (Use and difference)</br>
 Ans -> var - mutable variables</br>
@@ -51,8 +46,6 @@ Q. Difference between volatile and syncronized.
 
 Q. run{} vs runBlocking{}
 
-Q. What is Delegates class used for
-
 Q. Anonymous classes
 
 Q. enum vs sealed class
@@ -74,6 +67,13 @@ Q. What is coroutines context.
 Q. What is coroutines builder, its type and there work.
 
 Q. async, await, awaitAll
+
+Q. Flows vs live data, uses of flow when and when live data
+
+Q. How to make singleton class in java?</br>
+Ans -> Ans in SingletonClassInJavaAnswer file.
+
+Q. What is Delegates class used for
 
 __General Questions:__
 
