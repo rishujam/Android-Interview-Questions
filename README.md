@@ -2,10 +2,10 @@ __This repository is for intern level interview questions for android role.__
 
 __Kotlin Questions:__
 
-Q. Explain all scope function and its usecase ?
+Q. Explain all scope function and its usecase ?</br?
 Ans -> https://www.youtube.com/watch?v=Vy-dS2SVoHk&ab_channel=PhilippLackner
 
-<br>Q. How to make singleton class in java?</br>
+Q. How to make singleton class in java?</br>
 Ans -> Ans in SingletonClassInJavaAnswer file.
 
 Q. Kotlin all operators like lazy, lateinit, is, etc.
@@ -14,7 +14,7 @@ Q. Lamda function uses
 
 Q. High order functions
 
-Q. What is internal keyword use?
+Q. What is internal keyword use?</br>
 Ans -> Setting a declaration as internal means that it'll be available in the same module only.
 
 Q. Flows vs live data, uses of flow when and when live data
@@ -35,10 +35,10 @@ Q. SOLID Principles
 
 __Android Questions:__
 
-Q. Activity lifecycle when call comes? 
+Q. Activity lifecycle when call comes?</br>
 Ans -> onPause and onStop. After call cut onRestart onStart onResume
 
-Q. Which activity life cycle method trigger when orientation change?
+Q. Which activity life cycle method trigger when orientation change?</br>
 Ans -> onPause() -> onSaveInstanceState() -> onStop() -> onDestroy()
        onCreate() -> onStart() -> onResume()
 
@@ -46,10 +46,10 @@ Q. DI Qualifiers
 
 Q. Things you thinks recyclerview can improve on
 
-Q. Why Single activity app?
+Q. Why Single activity app?</br>
 Ans -> https://oozou.com/blog/reasons-to-use-android-single-activity-architecture-with-navigation-component-36
 
-Q. When onDesstroy will get called before onPause or onStop?
+Q. When onDestroy will get called before onPause or onStop?</br>
 Ans -> When their is an exception in onCreate/onPause/onResume nothing gets called and when we call finish() only onDestroy is called.
 
 Q. How room works
