@@ -8,9 +8,7 @@ Ans -> https://www.youtube.com/watch?v=Vy-dS2SVoHk&ab_channel=PhilippLackner
 Q. How to make singleton class in java?</br>
 Ans -> Ans in SingletonClassInJavaAnswer file.
 
-Q. Kotlin all operators like lazy, lateinit, is, etc.
-
-Q. Questions based on lamda function in different situations.
+Q. lazy vs lateinit
 
 Q. High order functions</br>
 Ans -> https://www.youtube.com/watch?v=ZZuPgOhgQHc&ab_channel=SimplifiedCoding</br>
@@ -27,9 +25,27 @@ Ans -> Setting a declaration as internal means that it'll be available in the sa
 
 Q. Flows vs live data, uses of flow when and when live data
 
-Q. Const vs val vs companion object vs object
+Q. const, val, var, companion object and object (Use and difference)
+
+Q. Use of open (Inheritence in kotlin vs java)
+
+Q. Use of vararg
+
+Q. is, as, as?, in 
+
+Q. inline, infix
+
+Q. if(i != null) vs i?.let{}
+
+Q. use of ::
+
+Q. Elvis operator
 
 Q. Different classes in kotlin (sealed, object, data, etc.)
+
+Q. external, internal, inner keyword
+
+Q. Questions based on lamda function in different situations.
 
 Q. Interface vs abstract 
 
@@ -93,3 +109,7 @@ Q. How to inject interface
 Q. Design and architecture patterns
 
 Q. Async Await 
+
+__Additional resources__
+
+Kotlin all modifiers and keywords- https://kotlinlang.org/docs/keyword-reference.html#hard-keywords
