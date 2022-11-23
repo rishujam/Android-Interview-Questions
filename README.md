@@ -1,5 +1,4 @@
-__This repository is for intern level interview questions for android role.__</br>
-__No of questions: 63__
+No of questions: 63__
 
 __Kotlin Questions:__
 
