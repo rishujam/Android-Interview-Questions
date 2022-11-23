@@ -1,4 +1,4 @@
-__This repository is for intern level interview questions for android role.__
+__This repository is for intern level interview questions for android role.__</br>
 __No of questions: 63__
 
 __Kotlin Questions:__
@@ -26,7 +26,12 @@ Ans -> Setting a declaration as internal means that it'll be available in the sa
 
 Q8. Flows vs live data, uses of flow when and when live data
 
-Q9. const, val, var, companion object and object (Use and difference)
+Q9. const, val, var, companion object and object (Use and difference)</br>
+Ans -> var - mutable variables</br>
+       val - immutable variable assigned at runtime</br>
+       const val - assigned at compile time</br>
+       companion object - Inside this block we can define static variables/function inside classes/files.</br>
+       object - Used to make singleton classes ( inside this class all functions and variables will be static )</br>
 
 Q10. Use of open (Inheritence in kotlin vs java)
 
@@ -103,7 +108,7 @@ Q41. In which project will you use data binding and in which viewBinding?
 
 Q42. Diff between MVVM and MVVM Clean
 
-Q43. Why MVVM
+Q43. Why MVVM, Difference between MVVM and other arch patterns
 
 Q44. Launch mode and there type and differences.
 
@@ -143,7 +148,7 @@ Q61. How to inject interface
 
 Q62. Design and architecture patterns
 
-Q63. Major factors app performance depends on 
+Q63. Major factors app performance depends upon
 
 __Additional resources__
 
