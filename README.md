@@ -10,9 +10,14 @@ Ans -> Ans in SingletonClassInJavaAnswer file.
 
 Q. Kotlin all operators like lazy, lateinit, is, etc.
 
-Q. Lamda function uses
+Q. Questions based on lamda function in different situations.
 
-Q. High order functions
+Q. High order functions</br>
+Ans -> https://www.youtube.com/watch?v=ZZuPgOhgQHc&ab_channel=SimplifiedCoding</br>
+       https://proandroiddev.com/kotlin-pearls-lambdas-with-a-context-58f26ab2eb1d
+
+Q. What is Trailing lamda</br>
+Ans -> https://youtu.be/ZZuPgOhgQHc?t=397
 
 Q. Unit, Nothing, Any</br>
 Ans -> https://medium.com/proandroiddev/kotlin-pearls-7-unit-nothing-any-and-null-cbbbbca86c2d
