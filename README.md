@@ -1,19 +1,13 @@
 This repository is for intern level interview questions for android role.
 
-Questions:
+Kotlin Questions:
 
-Q. Things you thinks recyclerview can improve on
+Q. Explain all scope function and its usecase ?
+Ans -> https://www.youtube.com/watch?v=Vy-dS2SVoHk&ab_channel=PhilippLackner
 
 Q. Kotlin all operators like lazy, lateinit, is, etc.
 
 Q. Lamda function uses
-
-Q. Activity lifecycle when call comes? 
-Ans -> onPause and onStop. After call cut onRestart onStart onResume
-
-Q. Which activity life cycle method trigger when orientation change?
-Ans -> onPause() -> onSaveInstanceState() -> onStop() -> onDestroy()
-       onCreate() -> onStart() -> onResume()
        
 Q. When onDistroy will get called before onPause or onStop?
 Ans -> When their is an exception in onCreate/onPause/onResume nothing gets called and when we call finish() only onDestroy is called.
@@ -54,3 +48,16 @@ Q. Work of ViewModel
 Q. Activities, fragment back stack
 
 Q. passing data between activities present in backstack
+
+Android Questions:
+
+Q. Activity lifecycle when call comes? 
+Ans -> onPause and onStop. After call cut onRestart onStart onResume
+
+Q. Which activity life cycle method trigger when orientation change?
+Ans -> onPause() -> onSaveInstanceState() -> onStop() -> onDestroy()
+       onCreate() -> onStart() -> onResume()
+
+Q. DI Qualifiers
+
+Q. Things you thinks recyclerview can improve on
