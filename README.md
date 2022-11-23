@@ -14,7 +14,8 @@ Q. Lamda function uses
 
 Q. High order functions
 
-Q. Unit, Nothing, Any
+Q. Unit, Nothing, Any</br>
+Ans -> https://medium.com/proandroiddev/kotlin-pearls-7-unit-nothing-any-and-null-cbbbbca86c2d
 
 Q. What is internal keyword use?</br>
 Ans -> Setting a declaration as internal means that it'll be available in the same module only.
