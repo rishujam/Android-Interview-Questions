@@ -5,6 +5,13 @@ Lamda function uses
 Q. Activity lifecycle when call comes? 
 Ans -> onPause and onStop. After call cut onRestart onStart onResume
 
+Q. Which activity life cycle method trigger when orientation change?
+Ans -> onPause() -> onSaveInstanceState() -> onStop() -> onDestroy()
+       onCreate() -> onStart() -> onResume()
+       
+Q. When onDistroy will get called before onPause or onStop?
+Ans -> When their is an exception in onCreate/onPause/onResume nothing gets called and when we call finish() only onDestroy is called.
+
 High order functions
 How room works
 How retrofit works 
