@@ -150,6 +150,4 @@ Q62. Design and architecture patterns
 
 Q63. Major factors app performance depends upon
 
-__Additional resources__
 
-Kotlin all modifiers and keywords- https://kotlinlang.org/docs/keyword-reference.html#hard-keywords
