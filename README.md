@@ -1,8 +1,7 @@
 __This repository is for intern level interview questions for android role.__</br>
 __No of questions: 63__
 
-__Kotlin Questions:__ 
-![download](https://user-images.githubusercontent.com/74773876/203636438-232518f5-b4ac-48ae-aa4d-661d31d1b4b6.jpeg)
+__Kotlin Questions:__
 
 Q. Explain all scope function and its usecase ?</br>
 Ans -> https://www.youtube.com/watch?v=Vy-dS2SVoHk&ab_channel=PhilippLackner
@@ -81,8 +80,6 @@ __General Questions:__
 Q. SOLID Principles
 
 __Android Questions:__
-![Android-Logo](https://user-images.githubusercontent.com/74773876/203636413-ec1834fc-7a4c-4d54-af70-cdd4e273c559.png)
-
 
 Q. Activity lifecycle when call comes?</br>
 Ans -> onPause and onStop. After call cut onRestart onStart onResume
