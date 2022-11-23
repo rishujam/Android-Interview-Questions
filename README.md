@@ -2,7 +2,7 @@ __This repository is for intern level interview questions for android role.__
 
 __Kotlin Questions:__
 
-Q. Explain all scope function and its usecase ?</br?
+Q. Explain all scope function and its usecase ?</br>
 Ans -> https://www.youtube.com/watch?v=Vy-dS2SVoHk&ab_channel=PhilippLackner
 
 Q. How to make singleton class in java?</br>
@@ -13,6 +13,8 @@ Q. Kotlin all operators like lazy, lateinit, is, etc.
 Q. Lamda function uses
 
 Q. High order functions
+
+Q. Unit, Nothing, Any
 
 Q. What is internal keyword use?</br>
 Ans -> Setting a declaration as internal means that it'll be available in the same module only.
