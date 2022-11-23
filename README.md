@@ -33,13 +33,17 @@ Q. Use of vararg
 
 Q. is, as, as?, in 
 
-Q. inline, infix
+Q. Extension vs inline vs inflix vs high order function there benefit in term of memory.
 
 Q. if(i != null) vs i?.let{}
 
 Q. use of ::
 
 Q. Elvis operator
+
+Q. Difference between volatile and syncronized.
+
+Q. run{} vs runBlocking{}
 
 Q. Different classes in kotlin (sealed, object, data, etc.)
 
@@ -49,9 +53,17 @@ Q. Questions based on lamda function in different situations.
 
 Q. Interface vs abstract 
 
-Q. Extention functions
+Q. What is referential equality( === ) and structal equality( == )
 
-Q. Coroutines uses in different situation like using coroutine scope block, async block, await, await all, etc.
+Q. Questions based on coroutine scopes
+
+Q. What is coroutines dispatchers there type and work.
+
+Q. What is coroutines context.
+
+Q. What is coroutines builder, its type and there work.
+
+Q. async, await, awaitAll
 
 __General Questions:__
 
