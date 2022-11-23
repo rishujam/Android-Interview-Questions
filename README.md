@@ -5,6 +5,9 @@ Kotlin Questions:
 Q. Explain all scope function and its usecase ?
 Ans -> https://www.youtube.com/watch?v=Vy-dS2SVoHk&ab_channel=PhilippLackner
 
+Q. How to make singleton class in java?
+Ans -> Ans in SingletonClassInJavaAnswer file.
+
 Q. Kotlin all operators like lazy, lateinit, is, etc.
 
 Q. Lamda function uses
