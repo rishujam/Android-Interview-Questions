@@ -3,151 +3,153 @@ __No of questions: 63__
 
 __Kotlin Questions:__
 
-Q1. Explain all scope function and its usecase ?</br>
+Q. Explain all scope function and its usecase ?</br>
 Ans -> https://www.youtube.com/watch?v=Vy-dS2SVoHk&ab_channel=PhilippLackner
 
-Q2. How to make singleton class in java?</br>
+Q. How to make singleton class in java?</br>
 Ans -> Ans in SingletonClassInJavaAnswer file.
 
-Q3. lazy vs lateinit
+Q. lazy vs lateinit
 
-Q4. High order functions</br>
+Q. High order functions</br>
 Ans -> https://www.youtube.com/watch?v=ZZuPgOhgQHc&ab_channel=SimplifiedCoding</br>
        https://proandroiddev.com/kotlin-pearls-lambdas-with-a-context-58f26ab2eb1d
 
-Q5. What is Trailing lamda</br>
+Q. What is Trailing lamda</br>
 Ans -> https://youtu.be/ZZuPgOhgQHc?t=397
 
-Q6. Unit, Nothing, Any</br>
+Q. Unit, Nothing, Any</br>
 Ans -> https://medium.com/proandroiddev/kotlin-pearls-7-unit-nothing-any-and-null-cbbbbca86c2d
 
-Q7. What is internal keyword use?</br>
+Q. What is internal keyword use?</br>
 Ans -> Setting a declaration as internal means that it'll be available in the same module only.
 
-Q8. Flows vs live data, uses of flow when and when live data
+Q. Flows vs live data, uses of flow when and when live data
 
-Q9. const, val, var, companion object and object (Use and difference)</br>
+Q. const, val, var, companion object and object (Use and difference)</br>
 Ans -> var - mutable variables</br>
        val - immutable variable assigned at runtime</br>
        const val - assigned at compile time</br>
        companion object - Inside this block we can define static variables/function inside classes/files.</br>
        object - Used to make singleton classes ( inside this class all functions and variables will be static )</br>
 
-Q10. Use of open (Inheritence in kotlin vs java)
+Q. Use of open (Inheritence in kotlin vs java)
 
-Q11. Use of vararg
+Q. Use of vararg
 
-Q12. is, as, as?, in 
+Q. is, as, as?, in 
 
-Q13. Extension vs inline vs inflix vs high order function there benefit in term of memory.
+Q. Extension vs inline vs inflix vs high order function there benefit in term of memory.
 
-Q14. if(i != null) vs i?.let{}
+Q. if(i != null) vs i?.let{}
 
-Q15. use of ::
+Q. use of ::
 
-Q16. Elvis operator
+Q. Elvis operator
 
-Q17. Difference between volatile and syncronized.
+Q. Difference between volatile and syncronized.
 
-Q18. run{} vs runBlocking{}
+Q. run{} vs runBlocking{}
 
-Q19. What is Delegates class used for
+Q. What is Delegates class used for
 
-Q20. Anonymous classes
+Q. Anonymous classes
 
-Q21. enum vs sealed class
+Q. enum vs sealed class
 
-Q22. external, internal, inner keyword
+Q. external, internal, inner keyword
 
-Q23. Questions based on lamda function in different situations.
+Q. Questions based on lamda function in different situations.
 
-Q24. Interface vs abstract 
+Q. Interface vs abstract 
 
-Q25. What is referential equality( === ) and structal equality( == )
+Q. What is referential equality( === ) and structal equality( == )
 
-Q26. Questions based on coroutine scopes
+Q. Questions based on coroutine scopes
 
-Q27. What is coroutines dispatchers there type and work.
+Q. What is coroutines dispatchers there type and work.
 
-Q28. What is coroutines context.
+Q. What is coroutines context.
 
-Q29. What is coroutines builder, its type and there work.
+Q. What is coroutines builder, its type and there work.
 
-Q30. async, await, awaitAll
+Q. async, await, awaitAll
 
 __General Questions:__
 
-Q31. SOLID Principles
+Q. SOLID Principles
 
 __Android Questions:__
 
-Q32. Activity lifecycle when call comes?</br>
+Q. Activity lifecycle when call comes?</br>
 Ans -> onPause and onStop. After call cut onRestart onStart onResume
 
-Q33. Which activity life cycle method trigger when orientation change?</br>
+Q. Which activity life cycle method trigger when orientation change?</br>
 Ans -> onPause() -> onSaveInstanceState() -> onStop() -> onDestroy()
        onCreate() -> onStart() -> onResume()
+       
+Q. Lets say we opened 3 activites (A,B,C) one after another and C is on top and A was the first activity. When we close activity C we want to send data to activity A. How can we do it in different ways.
 
-Q34. DI Qualifiers
+Q. How recycler view works internally? Cons of recycler view.
 
-Q35. How recycler view works internally? Cons of recycler view.
-
-Q36. Why Single activity app?</br>
+Q. Why Single activity app?</br>
 Ans -> https://oozou.com/blog/reasons-to-use-android-single-activity-architecture-with-navigation-component-36
 
-Q37. When onDestroy will get called before onPause or onStop?</br>
+Q. When onDestroy will get called before onPause or onStop?</br>
 Ans -> When their is an exception in onCreate/onPause/onResume nothing gets called and when we call finish() only onDestroy is called.
 
-Q38. How room works
+Q. How room works internally
 
-Q39. How retrofit works 
+Q. What are interceptors
 
-Q40. Memory leaks identification
+Q. In which project will you use data binding and in which viewBinding?
 
-Q41. In which project will you use data binding and in which viewBinding?
+Q. Diff between MVVM and MVVM Clean
 
-Q42. Diff between MVVM and MVVM Clean
+Q. Why MVVM, Difference between MVVM and other arch patterns
 
-Q43. Why MVVM, Difference between MVVM and other arch patterns
+Q. Launch mode and there type and differences.
 
-Q44. Launch mode and there type and differences.
+Q. Constraint layout groups
 
-Q45. Types of Services?
+Q. Diff between virtual back button of android system and back button of toolbar inside the app.
 
-Q46. Broadcast receiver
+Q. What are Intent Service
 
-Q47. How to start a service through Broadcast receiver and vice versa
+Q. What is pending intent
 
-Q48. How viewModel works internally and retain data during configuration change (Even after actiivty destroys and recreate in config change viewModels maintain itself)
+Q. How to inject interface
 
-Q49. Concept of viewModel factory
+Q. DI Qualifiers
 
-Q50. Concept of shared view model and how to implement it.
+Q. Design and architecture patterns
 
-Q51. ViewModel vs AndroidViewModel
+Q. Types of Services?
 
-Q52. Activities, fragment back stack
+Q. Broadcast receiver
 
-Q53. Lets say we opened 3 activites (A,B,C) one after another and C is on top and A was the first activity. When we close activity C we want to send data to activity A. How can we do it in different ways.
+Q. How to start a service through Broadcast receiver and vice versa
 
-Q54. Passing data from activities to fragment
+Q. How viewModel works internally and retain data during configuration change (Even after actiivty destroys and recreate in config change viewModels maintain itself)
 
-Q55. Constraint layout groups
+Q. Concept of viewModel factory
 
-Q56. Types of intent which is used when
+Q. Concept of shared view model and how to implement it.
 
-Q57. Diff between virtual back button of android system and back button of toolbar inside the app.
+Q. ViewModel vs AndroidViewModel
 
-Q58. Intent Service
+Q. Activities, fragment back stack
 
-Q59. How to communicate between service and activity
+Q. Passing data from activities to fragment
 
-Q60. What is job scheduler and its work.
+Q. Types of intent which is used when
 
-Q61. How to inject interface
+Q. How to communicate between service and activity
 
-Q62. Design and architecture patterns
+Q. What is job scheduler and its work.
 
-Q63. Major factors app performance depends upon
+Q. Memory leaks identification
+
+Q. Major factors app performance depends upon
 
 
