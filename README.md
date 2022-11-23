@@ -45,7 +45,11 @@ Q. Difference between volatile and syncronized.
 
 Q. run{} vs runBlocking{}
 
-Q. Different classes in kotlin (sealed, object, data, etc.)
+Q. What is Delegates class used for
+
+Q. Anonymous classes
+
+Q. enum vs sealed class
 
 Q. external, internal, inner keyword
 
@@ -80,7 +84,7 @@ Ans -> onPause() -> onSaveInstanceState() -> onStop() -> onDestroy()
 
 Q. DI Qualifiers
 
-Q. Things you thinks recyclerview can improve on
+Q. How recycler view works internally? Cons of recycler view.
 
 Q. Why Single activity app?</br>
 Ans -> https://oozou.com/blog/reasons-to-use-android-single-activity-architecture-with-navigation-component-36
@@ -92,11 +96,15 @@ Q. How room works
 
 Q. How retrofit works 
 
+Q. Memory leaks identification
+
 Q. In which project will you use data binding and in which viewBinding?
 
 Q. Diff between MVVM and MVVM Clean
 
 Q. Why MVVM
+
+Q. Launch mode and there type and differences.
 
 Q. Types of Services?
 
@@ -104,23 +112,37 @@ Q. Broadcast receiver
 
 Q. How to start a service through Broadcast receiver and vice versa
 
-Q. Work of ViewModel
+Q. How viewModel works internally and retain data during configuration change (Even after actiivty destroys and recreate in config change viewModels maintain itself)
+
+Q. Concept of viewModel factory
+
+Q. Concept of shared view model and how to implement it.
+
+Q. ViewModel vs AndroidViewModel
 
 Q. Activities, fragment back stack
 
-Q. passing data between activities present in backstack
+Q. Lets say we opened 3 activites (A,B,C) one after another and C is on top and A was the first activity. When we close activity C we want to send data to activity A. How can we do it in different ways.
+
+Q. Passing data from activities to fragment
 
 Q. Constraint layout groups
 
-Q. Types of intent
+Q. Types of intent which is used when
+
+Q. Diff between virtual back button of android system and back button of toolbar inside the app.
 
 Q. Intent Service
+
+Q. How to communicate between service and activity
+
+Q. What is job scheduler and its work.
 
 Q. How to inject interface
 
 Q. Design and architecture patterns
 
-Q. Async Await 
+Q. Major factors app performance depends on 
 
 __Additional resources__
 
