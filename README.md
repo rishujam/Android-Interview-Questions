@@ -69,8 +69,7 @@ Q. async, await, awaitAll
 
 Q. Flows vs live data, uses of flow when and when live data
 
-Q. How to make singleton class in java?</br>
-Ans -> Ans in SingletonClassInJavaAnswer file.
+Q. How to make singleton class in java?
 
 Q. What is Delegates class used for
 
