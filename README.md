@@ -12,7 +12,6 @@ Ans -> https://www.youtube.com/watch?v=ZZuPgOhgQHc&ab_channel=SimplifiedCoding</
        https://proandroiddev.com/kotlin-pearls-lambdas-with-a-context-58f26ab2eb1d
 
 Q. What is Trailing lamda</br>
-Ans -> https://youtu.be/ZZuPgOhgQHc?t=397
 
 Q. Unit, Nothing, Any</br>
 Ans -> https://medium.com/proandroiddev/kotlin-pearls-7-unit-nothing-any-and-null-cbbbbca86c2d
@@ -45,7 +44,7 @@ Q. Difference between volatile and syncronized.
 
 Q. run{} vs runBlocking{}
 
-Q. Anonymous classes
+Q. what is use of Anonymous classes? Example
 
 Q. enum vs sealed class
 
@@ -120,11 +119,15 @@ Q. How to inject interface
 
 Q. DI Qualifiers
 
+Q. Use of Application class
+
 Q. Design and architecture patterns
 
 Q. Types of Services?
 
 Q. Broadcast receiver
+
+Q. What is use of channels in android
 
 Q. How to start a service through Broadcast receiver and vice versa
 
