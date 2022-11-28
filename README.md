@@ -70,7 +70,8 @@ Q. Flows vs live data, uses of flow when and when live data
 
 Q. How to make singleton class in java?
 
-Q. What is Delegates class used for
+Q. Deligation</br>
+Ans -> https://www.youtube.com/watch?v=MfJB-JhRAoQ&ab_channel=PhilippLackner
 
 __General Questions:__
 
