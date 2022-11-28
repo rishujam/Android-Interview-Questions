@@ -90,7 +90,8 @@ Ans -> onPause() -> onSaveInstanceState() -> onStop() -> onDestroy()
        
 Q. Lets say we opened 3 activites (A,B,C) one after another and C is on top and A was the first activity. When we close activity C we want to send data to activity A. How can we do it in different ways.
 
-Q. How recycler view works internally? Cons of recycler view.
+Q. How recycler view works internally? Cons of recycler view.</br>
+Ans -> https://medium.com/1mgofficial/how-recyclerview-works-internally-71290de5d2c4
 
 Q. Why Single activity app?</br>
 Ans -> https://oozou.com/blog/reasons-to-use-android-single-activity-architecture-with-navigation-component-36
