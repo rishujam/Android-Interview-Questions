@@ -28,7 +28,7 @@ Ans -> var - mutable variables</br>
 
 Q. Use of open (Inheritence in kotlin vs java)
 
-Q. Use of vararg
+Q. passing vararg as parameter vs passing a list
 
 Q. is, as, as?, in 
 
