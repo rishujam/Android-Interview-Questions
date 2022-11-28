@@ -30,7 +30,7 @@ Q. Use of open (Inheritence in kotlin vs java)
 
 Q. passing vararg as parameter vs passing a list
 
-Q. is, as, as?, in 
+Q. is, as, as?, in, out
 
 Q. Extension vs inline vs inflix vs high order function there benefit in term of memory.
 
@@ -70,7 +70,7 @@ Q. Flows vs live data, uses of flow when and when live data
 
 Q. How to make singleton class in java?
 
-Q. Deligation</br>
+Q. kotlin Deligation</br>
 Ans -> https://www.youtube.com/watch?v=MfJB-JhRAoQ&ab_channel=PhilippLackner
 
 __General Questions:__
@@ -153,5 +153,8 @@ Q. What is job scheduler and its work.
 Q. Memory leaks identification
 
 Q. Major factors app performance depends upon
+
+Q. Desgin Patterns</br>
+Ans -> Deligation pattern
 
 
