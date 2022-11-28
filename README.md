@@ -50,7 +50,10 @@ Q. what is use of Anonymous classes? Example
 
 Q. enum vs sealed class
 
-Q. external, internal, inner keyword
+Q. Normal nested class vs nested class with inner keyword</br>
+Ans -> https://www.youtube.com/watch?v=3bCqDGcfpP0&ab_channel=PRABEESHRK
+
+Q. external, internal
 
 Q. Questions based on lamda function in different situations.
 
