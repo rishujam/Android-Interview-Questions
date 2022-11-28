@@ -1,4 +1,4 @@
-__No of questions: 63__
+__No of questions: 60+__
 
 __Kotlin Questions:__
 
