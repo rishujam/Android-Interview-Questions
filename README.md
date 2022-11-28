@@ -34,6 +34,8 @@ Q. is, as, as?, in, out
 
 Q. Extension vs inline vs inflix vs high order function there benefit in term of memory.
 
+Q. operator keyword
+
 Q. if(i != null) vs i?.let{}
 
 Q. use of ::
