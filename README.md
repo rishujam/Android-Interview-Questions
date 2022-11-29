@@ -38,7 +38,8 @@ Q. operator keyword
 
 Q. if(i != null) vs i?.let{}
 
-Q. use of ::
+Q. use of ::</br>
+Ans -> https://stackoverflow.com/questions/47400942/what-does-mean-in-kotlin
 
 Q. Elvis operator
 
