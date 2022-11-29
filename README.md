@@ -116,7 +116,8 @@ Q. Diff between MVVM and MVVM Clean
 
 Q. Why MVVM, Difference between MVVM and other arch patterns
 
-Q. Launch mode and there type and differences.
+Q. Launch mode and there type and differences.</br>
+Ans -> https://medium.com/mindorks/android-launch-mode-787d28952959
 
 Q. Constraint layout groups
 
