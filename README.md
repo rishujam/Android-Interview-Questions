@@ -55,7 +55,9 @@ Q. enum vs sealed class
 Q. Normal nested class vs nested class with inner keyword</br>
 Ans -> https://www.youtube.com/watch?v=3bCqDGcfpP0&ab_channel=PRABEESHRK
 
-Q. external, internal
+Q. external, internal</br>
+Ans -> External: The external keyword in Kotlin is the same as the native keyword in Java. Both mean the implementation of the method comes from the native library.</br>
+Internal: The internal visibility modifier means that the member is visible within the same module.
 
 Q. Questions based on lamda function in different situations.
 
