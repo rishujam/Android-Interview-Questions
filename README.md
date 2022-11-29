@@ -43,7 +43,8 @@ Ans -> https://stackoverflow.com/questions/47400942/what-does-mean-in-kotlin
 
 Q. Elvis operator
 
-Q. Difference between volatile and syncronized.
+Q. Difference between volatile and syncronized.</br>
+Ans -> https://blog.knoldus.com/difference-between-synchronized-and-volatile-in-java/
 
 Q. run{} vs runBlocking{}
 
