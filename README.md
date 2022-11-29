@@ -136,7 +136,8 @@ Ans -> https://blog.mindorks.com/dagger-hilt-tutorial
 
 Q. Use of Application class
 
-Q. Design and architecture patterns
+Q. Design and architecture patterns</br>
+Ans -> Design: https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin
 
 Q. Types of Services?
 
