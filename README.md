@@ -128,9 +128,10 @@ Q. What are Intent Service
 
 Q. What is pending intent
 
-Q. How to inject interface
+Q. How to inject interface</br>
+Ans -> https://write.agrevolution.in/dependency-injection-with-hilt-part-2-ee5fea58bab2
 
-Q. DI Qualifiers
+Q. DI Qualifiers</br>
 Ans -> https://blog.mindorks.com/dagger-hilt-tutorial
 
 Q. Use of Application class
