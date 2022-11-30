@@ -119,7 +119,9 @@ Q. Why MVVM, Difference between MVVM and other arch patterns
 Q. Launch mode and there type and differences.</br>
 Ans -> https://medium.com/mindorks/android-launch-mode-787d28952959
 
-Q. Lifetime of object class
+Q. Lifetime of object class</br>
+Short Ans -> Till the app lives</br>
+Detailed Ans -> https://stackoverflow.com/questions/1944369/android-static-object-lifecycle/1944564#1944564
 
 Q. Constraint layout groups</br>
 Ans -> https://stackoverflow.com/questions/42118674/how-to-group-multiple-views-in-a-constraintlayout
