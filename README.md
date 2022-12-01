@@ -48,7 +48,8 @@ Ans -> https://blog.knoldus.com/difference-between-synchronized-and-volatile-in-
 
 Q. run{} vs runBlocking{}
 
-Q. what is use of Anonymous classes? Example
+Q. what is use of Anonymous classes? Example</br>
+Ans -> https://www.youtube.com/watch?v=1dKsPrEcUFY&ab_channel=PhilippLackner
 
 Q. enum vs sealed class
 
