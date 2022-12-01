@@ -177,6 +177,6 @@ Q. Memory leaks identification
 Q. Major factors app performance depends upon
 
 Q. Desgin Patterns</br>
-Ans -> Deligation pattern
+Ans -> https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin/
 
 
