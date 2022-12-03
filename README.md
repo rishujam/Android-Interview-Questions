@@ -182,13 +182,14 @@ Ans -> https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotli
 __Scenario based questions__
 
 Q. Whats wrong in this code ?</br>
-```companion object {
-        val retrofit = Retrofit.Builder()
-            .baseUrl(BASE_URL)
-            .addConverterFactory(GsonConverterFactory.create())
-            .build()
-        const val BASE_URL = "https://api.openai.com/"
-    }
+```
+companion object {
+    val retrofit = Retrofit.Builder()
+        .baseUrl(BASE_URL)
+        .addConverterFactory(GsonConverterFactory.create())
+        .build()
+    const val BASE_URL = "https://api.openai.com/"
+}
 ```
 
 
