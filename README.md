@@ -183,12 +183,11 @@ __Scenario based questions__
 
 Q. Whats wrong in this code ?</br>
 ```companion object {
-        const val API_KEY ="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"
-        const val BASE_URL = "https://api.openai.com/"
         val retrofit = Retrofit.Builder()
             .baseUrl(BASE_URL)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
-    }```</br>
+        const val BASE_URL = "https://api.openai.com/"
+    }
 
 
