@@ -189,5 +189,6 @@ Q. Whats wrong in this code ?</br>
             .build()
         const val BASE_URL = "https://api.openai.com/"
     }
+```
 
 
