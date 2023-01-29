@@ -126,6 +126,9 @@ Detailed Ans -> https://stackoverflow.com/questions/1944369/android-static-objec
 
 Q. Dagger Hilt @Singleton vs object class
 
+Q. What is use of DI?
+Ans -> Manage scope of object easily, easy testing, managing dependencies easily
+
 Q. Constraint layout groups</br>
 Ans -> https://stackoverflow.com/questions/42118674/how-to-group-multiple-views-in-a-constraintlayout
 
