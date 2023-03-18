@@ -182,6 +182,8 @@ Q. Major factors app performance depends upon
 Q. Desgin Patterns</br>
 Ans -> https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotlin/
 
+Q. What is difference between using supportFragmentManager and nav component for navigation?
+
 __Scenario based questions__
 
 Q. Whats wrong in this code ?</br>
