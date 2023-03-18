@@ -184,6 +184,7 @@ Ans -> https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotli
 
 Q. What is difference between using supportFragmentManager and nav component for navigation?
 
+
 __Scenario based questions__
 
 Q. Whats wrong in this code ?</br>
@@ -197,4 +198,5 @@ companion object {
 }
 ```
 
+Q. I am using nav component in my app there are 5 activities in my app 1 is the home activity (containing 4 buttons) where I am currently on. When i click on button multiple times all 3 buttons work fine and redirect me to their respective activity. But the 4th button creates multiple instances of the activity (implementation to navigation is same for all 4 buttons) What could be the possible cause of this bug?
 
