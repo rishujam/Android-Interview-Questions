@@ -186,6 +186,8 @@ Ans -> https://blog.mindorks.com/mastering-design-patterns-in-android-with-kotli
 
 Q. What is difference between using supportFragmentManager and nav component for navigation?
 
+Q. How to clear all the activites in the backstack and open new
+
 
 __Scenario based questions__
 
