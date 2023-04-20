@@ -1,3 +1,8 @@
+Hi I want to talk to you regarding your internship at Tax Salah or Insponce.
+You can send msg on my linkedin or mail me.
+Thank you.
+
+
 __No of questions: 60+__
 
 __Kotlin Questions:__
