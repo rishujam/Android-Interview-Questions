@@ -188,6 +188,8 @@ Q. What is difference between using supportFragmentManager and nav component for
 
 Q. How to clear all the activites in the backstack and open new
 
+Q. Can a data class extend another data class? 
+
 
 __Scenario based questions__
 
