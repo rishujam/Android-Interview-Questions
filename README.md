@@ -210,3 +210,5 @@ companion object {
 
 Q. I am using nav component in my app there are 5 activities in my app 1 is the home activity (containing 4 buttons) where I am currently on. When i click on button multiple times all 3 buttons work fine and redirect me to their respective activity. But the 4th button creates multiple instances of the activity (implementation to navigation is same for all 4 buttons) What could be the possible cause of this bug?
 
+Q. You have an API which has some common keys for each endpoint in its response model. How will you design your data classes in that case?Explain different ways it can be done 
+
