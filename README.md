@@ -190,6 +190,8 @@ Q. How to clear all the activites in the backstack and open new
 
 Q. Can a data class extend another data class? 
 
+Q. How to create a final class in kotlin?
+
 
 __Scenario based questions__
 
