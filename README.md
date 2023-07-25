@@ -194,6 +194,7 @@ Q. How to create a final class in kotlin?
 
 Q. What is difference between instrumented and UI test
 
+Q. Lifecycle of a view
 
 __Scenario based questions__
 
