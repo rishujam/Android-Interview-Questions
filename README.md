@@ -196,6 +196,8 @@ Q. What is difference between instrumented and UI test
 
 Q. Lifecycle of a view
 
+Q. Difference between flow.emit(data) and flow.value = data
+
 __Scenario based questions__
 
 Q. Whats wrong in this code ?</br>
