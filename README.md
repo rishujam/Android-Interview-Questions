@@ -217,7 +217,9 @@ Q. You have an API which has some common keys for each endpoint in its response 
 
 Q. Do the field variables of ViewHolder class gets initiallized everytime onBind is called?
 
-Q. ``` class Dum {
+Q. 
+```
+class Dum {
     
     private val x = 1
     init {
@@ -225,5 +227,7 @@ Q. ``` class Dum {
     }
     private val z = 2
 
-}``` What will be the secquence in which x, y, z will be initiallized when the object of Dum class is created?
+}
+```
+What will be the secquence in which x, y, z will be initiallized when the object of Dum class is created?
 
