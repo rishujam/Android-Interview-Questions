@@ -91,7 +91,10 @@ Q. SOLID Principles
 
 __Android Questions:__
 
-Q. Activity lifecycle when call comes?</br>
+Q. Activity lifecycle when new activity (B) opened 
+Ans -> onPause (A) -> onStart (B) -> onResume (B) -> onStop (A)
+
+Q. Activity lifecycle when call comes or app goes to Bg?</br>
 Ans -> onPause and onStop. After call cut onRestart onStart onResume
 
 Q. Which activity life cycle method trigger when orientation change?</br>
