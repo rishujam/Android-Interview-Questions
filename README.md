@@ -129,7 +129,8 @@ Q. Lifetime of object class</br>
 Short Ans -> Till the app lives</br>
 Detailed Ans -> https://stackoverflow.com/questions/1944369/android-static-object-lifecycle/1944564#1944564
 
-Q. Dagger Hilt @Singleton vs object class
+Q. Dagger Hilt @Singleton vs object class</br>
+Ans -> https://stackoverflow.com/questions/73449682/what-should-i-use-for-singleton-classes-a-real-singleton-or-singleton-annotati
 
 Q. What is use of DI?
 Ans -> Manage scope of object easily, easy testing, managing dependencies easily
