@@ -112,6 +112,8 @@ Ans -> https://oozou.com/blog/reasons-to-use-android-single-activity-architectur
 Q. When onDestroy will get called before onPause or onStop?</br>
 Ans -> When their is an exception in onCreate/onPause/onResume nothing gets called and when we call finish() only onDestroy is called.
 
+Q. To access gallery photo from our app we do not need any permission even though those photos are in external storage. Why?</br>
+
 Q. How room works internally
 
 Q. What are interceptors
